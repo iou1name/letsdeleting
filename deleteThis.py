@@ -1,4 +1,4 @@
 import World
 this = World.everything()
-print("delete this")
+print("delete This")
 del this
